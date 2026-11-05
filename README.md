@@ -18,7 +18,7 @@ So far:
 Ubuntu Server installed on Meerkat
 A whole section about Multipass
 
-Need to install 'Multipass' to take tutorials. I believe this is just a VM that similates using Ubuntu Server, and I an not following along on my actual Server installation. https://ubuntu.com/server/docs/tutorial/welcome-to-the-terminal/#welcome-to-the-terminal
+Need to install 'Multipass' to take tutorials. I believe this is just a VM that similates using Ubuntu Server, and I am not following along on my actual Server installation. https://ubuntu.com/server/docs/tutorial/welcome-to-the-terminal/#welcome-to-the-terminal
 Prerequisite for Windows installation: 'Virtual Machine Platform' must be enabled.
 Start -> Windows features -> Admin Password -> Features Window -- Verified enabled on my Windows 11 Laptop.
 Downloaded and installed multipass on Win11 laptop.
